@@ -1,4 +1,4 @@
-#https://modrinth.com/plugin/pvs-ip-register
+
 ## 🛡 VPS (Verify Player Security) – Protect Your Server from Nickname Spoofing
 # 🇺🇸 Description (English)
 
